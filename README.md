@@ -1,2 +1,1 @@
-# NimbusStream
-Nimbus stream library
+Experimental stream library
